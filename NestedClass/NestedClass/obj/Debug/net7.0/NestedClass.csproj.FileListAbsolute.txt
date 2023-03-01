@@ -1,0 +1,15 @@
+D:\csharp_2\NestedClass\NestedClass\bin\Debug\net7.0\NestedClass.exe
+D:\csharp_2\NestedClass\NestedClass\bin\Debug\net7.0\NestedClass.deps.json
+D:\csharp_2\NestedClass\NestedClass\bin\Debug\net7.0\NestedClass.runtimeconfig.json
+D:\csharp_2\NestedClass\NestedClass\bin\Debug\net7.0\NestedClass.dll
+D:\csharp_2\NestedClass\NestedClass\bin\Debug\net7.0\NestedClass.pdb
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.csproj.AssemblyReference.cache
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.AssemblyInfoInputs.cache
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.AssemblyInfo.cs
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.csproj.CoreCompileInputs.cache
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.dll
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\refint\NestedClass.dll
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.pdb
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\NestedClass.genruntimeconfig.cache
+D:\csharp_2\NestedClass\NestedClass\obj\Debug\net7.0\ref\NestedClass.dll

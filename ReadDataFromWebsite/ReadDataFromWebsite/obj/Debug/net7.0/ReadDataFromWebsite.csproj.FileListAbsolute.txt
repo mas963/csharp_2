@@ -1,0 +1,15 @@
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net7.0\ReadDataFromWebsite.exe
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net7.0\ReadDataFromWebsite.deps.json
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net7.0\ReadDataFromWebsite.runtimeconfig.json
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net7.0\ReadDataFromWebsite.dll
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\bin\Debug\net7.0\ReadDataFromWebsite.pdb
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.csproj.AssemblyReference.cache
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.AssemblyInfoInputs.cache
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.AssemblyInfo.cs
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.csproj.CoreCompileInputs.cache
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.dll
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\refint\ReadDataFromWebsite.dll
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.pdb
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ReadDataFromWebsite.genruntimeconfig.cache
+D:\csharp_2\ReadDataFromWebsite\ReadDataFromWebsite\obj\Debug\net7.0\ref\ReadDataFromWebsite.dll

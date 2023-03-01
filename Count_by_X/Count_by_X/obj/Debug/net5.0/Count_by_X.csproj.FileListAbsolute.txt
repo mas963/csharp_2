@@ -1,0 +1,16 @@
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.exe
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.deps.json
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.runtimeconfig.json
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.runtimeconfig.dev.json
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.dll
+D:\csharp_2\Count_by_X\Count_by_X\bin\Debug\net5.0\Count_by_X.pdb
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.csproj.AssemblyReference.cache
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.AssemblyInfoInputs.cache
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.AssemblyInfo.cs
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.csproj.CoreCompileInputs.cache
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.dll
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\refint\Count_by_X.dll
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.pdb
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\Count_by_X.genruntimeconfig.cache
+D:\csharp_2\Count_by_X\Count_by_X\obj\Debug\net5.0\ref\Count_by_X.dll

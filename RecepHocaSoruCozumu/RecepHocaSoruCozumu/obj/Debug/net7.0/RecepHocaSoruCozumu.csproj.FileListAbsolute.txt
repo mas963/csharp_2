@@ -1,0 +1,15 @@
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\bin\Debug\net7.0\RecepHocaSoruCozumu.exe
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\bin\Debug\net7.0\RecepHocaSoruCozumu.deps.json
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\bin\Debug\net7.0\RecepHocaSoruCozumu.runtimeconfig.json
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\bin\Debug\net7.0\RecepHocaSoruCozumu.dll
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\bin\Debug\net7.0\RecepHocaSoruCozumu.pdb
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.csproj.AssemblyReference.cache
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.AssemblyInfoInputs.cache
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.AssemblyInfo.cs
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.csproj.CoreCompileInputs.cache
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.dll
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\refint\RecepHocaSoruCozumu.dll
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.pdb
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\RecepHocaSoruCozumu.genruntimeconfig.cache
+D:\csharp_2\RecepHocaSoruCozumu\RecepHocaSoruCozumu\obj\Debug\net7.0\ref\RecepHocaSoruCozumu.dll

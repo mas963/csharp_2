@@ -1,0 +1,15 @@
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\bin\Debug\net7.0\IsAndAsOperator.exe
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\bin\Debug\net7.0\IsAndAsOperator.deps.json
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\bin\Debug\net7.0\IsAndAsOperator.runtimeconfig.json
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\bin\Debug\net7.0\IsAndAsOperator.dll
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\bin\Debug\net7.0\IsAndAsOperator.pdb
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.csproj.AssemblyReference.cache
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.AssemblyInfoInputs.cache
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.AssemblyInfo.cs
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.csproj.CoreCompileInputs.cache
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.dll
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\refint\IsAndAsOperator.dll
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.pdb
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\IsAndAsOperator.genruntimeconfig.cache
+D:\csharp_2\IsAndAsOperator\IsAndAsOperator\obj\Debug\net7.0\ref\IsAndAsOperator.dll
