@@ -1,0 +1,17 @@
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ConsoleProgressBarExample.exe
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ConsoleProgressBarExample.deps.json
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ConsoleProgressBarExample.runtimeconfig.json
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ConsoleProgressBarExample.dll
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ConsoleProgressBarExample.pdb
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\bin\Debug\net6.0\ShellProgressBar.dll
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.csproj.AssemblyReference.cache
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.AssemblyInfoInputs.cache
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.AssemblyInfo.cs
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.csproj.CoreCompileInputs.cache
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.csproj.CopyComplete
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.dll
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\refint\ConsoleProgressBarExample.dll
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.pdb
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ConsoleProgressBarExample.genruntimeconfig.cache
+D:\csharp_2\ConsoleProgressBarExample\ConsoleProgressBarExample\obj\Debug\net6.0\ref\ConsoleProgressBarExample.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I8tqkmL5Z61kSNO7rw5RhaNx7mWfi9RVAcNqYwTm2Gw=",
+  "Source": "AzureCosmosDbWebApi",
+  "BasePath": "_content/AzureCosmosDbWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
