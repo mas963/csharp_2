@@ -1,0 +1,15 @@
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\bin\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.exe
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\bin\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.deps.json
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\bin\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.runtimeconfig.json
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\bin\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.dll
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\bin\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.pdb
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.csproj.AssemblyReference.cache
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.AssemblyInfoInputs.cache
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.AssemblyInfo.cs
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.csproj.CoreCompileInputs.cache
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.dll
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\refint\Salihcantekin_DataStructures.LinkedList.dll
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.pdb
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\Salihcantekin_DataStructures.LinkedList.genruntimeconfig.cache
+D:\csharp_2\Salihcantekin_DataStructures\Salihcantekin_DataStructures.LinkedList\obj\Debug\net7.0\ref\Salihcantekin_DataStructures.LinkedList.dll

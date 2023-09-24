@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9S6h/9DiVLPXMnv2M/OunfmfJmAVWaiqiBKM2BsizbLefo1yCxD5XBw8MbpEb5Er8d5E+77fR4pW6DtJ33KsTQ==",
+  "success": true,
+  "projectFilePath": "D:\\csharp_2\\HttpClientExample\\HttpClientExample\\HttpClientExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

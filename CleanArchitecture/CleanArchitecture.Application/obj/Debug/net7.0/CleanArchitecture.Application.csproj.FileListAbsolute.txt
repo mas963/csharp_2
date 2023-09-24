@@ -1,0 +1,15 @@
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.deps.json
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.CopyComplete
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\refint\CleanArchitecture.Application.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\ref\CleanArchitecture.Application.dll

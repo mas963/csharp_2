@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4zWT6Dgx6K68p8twxAtpkwjPEf3J9LXk57xsi5r9aq0mmtBJDS+p0zNye0H55nOk/XrBvUy0iOplg1hy8/FfQ==",
+  "success": true,
+  "projectFilePath": "D:\\csharp_2\\StrategyDesignPattern\\StrategyDesignPattern\\StrategyDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

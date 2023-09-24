@@ -1,0 +1,17 @@
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.deps.json
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+D:\csharp_2\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\net7.0\StrategyDesignPattern.exe
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\net7.0\StrategyDesignPattern.deps.json
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\net7.0\StrategyDesignPattern.runtimeconfig.json
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\net7.0\StrategyDesignPattern.dll
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\net7.0\StrategyDesignPattern.pdb
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.AssemblyInfo.cs
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.sourcelink.json
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.dll
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\refint\StrategyDesignPattern.dll
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.pdb
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\StrategyDesignPattern.genruntimeconfig.cache
+D:\csharp_2\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\net7.0\ref\StrategyDesignPattern.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuestPDF_Example.props" />
+</Project>

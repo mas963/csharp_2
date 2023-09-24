@@ -1,0 +1,14 @@
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\bin\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.exe
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\bin\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.deps.json
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\bin\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.runtimeconfig.json
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\bin\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.dll
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\bin\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.pdb
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.AssemblyInfoInputs.cache
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.AssemblyInfo.cs
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.csproj.CoreCompileInputs.cache
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.dll
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\refint\TCKimlikNoDogrulamaAlgoritma.dll
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.pdb
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\TCKimlikNoDogrulamaAlgoritma.genruntimeconfig.cache
+D:\csharp_2\TCKimlikNoDogrulamaAlgoritma\TCKimlikNoDogrulamaAlgoritma\obj\Debug\net7.0\ref\TCKimlikNoDogrulamaAlgoritma.dll
